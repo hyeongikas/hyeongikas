@@ -24,3 +24,6 @@ Skills: HTML, VueJS, Javascript, CSS, Java, C++, C#, Kotlin
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hyeongikas)  
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/395645722881687566?bg=520039)](https://discord.com/users/395645722881687566)
+
