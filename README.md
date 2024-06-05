@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jiyu
+### Hi there 👋, I'm Ji
 ####  Developer and Graphic Designer
 ![ Developer and Graphic Designer](https://inbuzz.co.uk/wp-content/uploads/2024/02/HYUNJUN-HUB.png)
 
