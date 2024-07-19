@@ -6,7 +6,7 @@ Based in ```Amsterdam, Netherlands``` 🇳🇱 , from ```South Korea``` 🇰🇷
 
 Skills: HTML, VueJS, Javascript, CSS, Java, C++, C#, Kotlin
 
-- 🔭 I’m currently working on Jiyuhack-Client 
+- 🔭 I’m currently working on DSD (Unix-Like Operating System) 
 - 🌱 I’m currently learning International Criminal Law 
 - 📫 How to reach me: [jiyubear.co](https://jiyubear.co) 
 - 😄 Pronouns: She/Her 
